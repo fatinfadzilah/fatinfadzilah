@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java and kotlin.
-📫: How to reach me: fatinfadzilah@gmail.com or [linkedin](https://www.linkedin.com/in/fatin-nur-fadzilah/)
+- 🌱 I’m currently learning Java and Kotlin.
+- 📫: How to reach me: fatinfadzilah@gmail.com or [linkedin](https://www.linkedin.com/in/fatin-nur-fadzilah/)
 
 Thanks for visiting!!😄
+Have a nice day.
   
 <!--
 **fatinfadzilah/fatinfadzilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
