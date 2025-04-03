@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java and Kotlin.
+- 🌱 I’m currently learning Java,Kotlin and flutter
 - 📫: How to reach me: fatinfadzilah@gmail.com or [linkedin](https://www.linkedin.com/in/fatin-nur-fadzilah/)
 
 Thanks for visiting!!😄
